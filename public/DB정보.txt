@@ -1,0 +1,7 @@
+인증
+사용자 이름: sumin
+비밀번호: sDDl0wonPyp4107T
+
+내 IP주소  113.52.217.170/32
+
+mongodb+srv://sumin:<password>@travel.lycugup.mongodb.net/?retryWrites=true&w=majority

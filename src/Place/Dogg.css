@@ -1,0 +1,48 @@
+.place {
+    font-size: 50px; margin-left: 120px; margin-bottom: 10px; float: left; 
+}
+
+.place홈으로 {
+    font-size: 20px; margin-right: 40px;  float: right;
+    border-radius: 10px;
+    color: #fff;
+    background-color: teal;
+    border: 1px solid teal;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.place선택하기 {
+    font-size: 20px; margin-right: 20px;  float: right;
+    border-radius: 10px;
+    color: #fff;
+    background-color: teal;
+    border: 1px solid teal;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.PlacePhoto {
+    margin-right: 250px; margin-top: 140px; float: right; 
+}
+
+.장소설명 {
+    margin-left: 200px;  margin-right: 200px; margin-top: 20px; float: left; 
+}
+
+.PhotoZone {
+    margin-left: 100px; margin-top: 40px; float: left;
+}
+
+.photp1 {
+    margin-right: 10px;
+}
+
+.photp2 {
+    margin-right: 10px;
+}
+
+.photp3 {
+    margin-right: 10px;
+}
+

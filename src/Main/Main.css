@@ -1,0 +1,147 @@
+.마이홈 {
+    margin-left: 5px; margin-right: 5px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: teal;
+    border: 1px solid teal;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.header {
+    width: 95%; height: 15%; float: left; 
+    text-align: right;
+  }
+  
+  .title {
+    width: 100%; height: 20%; float: left; 
+    text-align: left;
+  }
+  
+  .footer {
+    width: 100%; height: 45%; float: left;
+    text-align: center;
+  }
+  
+  .subhead {
+    width: 30%; height: 30%;  float: right;
+    text-align: left;
+  }
+  
+  .동성로 {
+    margin-left: 0px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .이월드 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .스파밸리 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .봉무공원 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .스파크랜드 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .대구아쿠아리움 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .팔공산케이블카 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .국립대구박물관 {
+    margin-left: 10px; margin-right: 20px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .네이처파크 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .타워 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .앞산해넘이전망대 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .국립대구과학관 {
+    margin-left: 10px; margin-right: 20px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .화원유원지 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .대구수목원 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .달성공원 {
+    margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .고산골공룡공원 {
+    margin-left: 10px; margin-right: 20px; margin-top: 10px; margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .jpg {
+    position: absolute;
+    top: 1px;
+    left: 5px;
+    display: none;
+  }
+  .동성로:hover .jpg { display: block; }
+  
+  .이월드:hover .jpg { display: block; }
+  
+  .스파밸리:hover .jpg { display: block; }
+  
+  .봉무공원:hover .jpg { display: block; }
+  
+  .스파크랜드:hover .jpg { display: block; }
+  
+  .대구아쿠아리움:hover .jpg { display: block; }
+  
+  .팔공산케이블카:hover .jpg { display: block; }
+  
+  .국립대구박물관:hover .jpg { display: block; }
+  
+  .네이처파크:hover .jpg { display: block; }
+  
+  .타워:hover .jpg { display: block; }
+  
+  .앞산해넘이전망대:hover .jpg { display: block; }
+  
+  .국립대구과학관:hover .jpg { display: block; }
+  
+  .화원유원지:hover .jpg { display: block; }
+  
+  .대구수목원:hover .jpg { display: block; }
+  
+  .달성공원:hover .jpg { display: block; }
+  
+  .고산골공룡공원:hover .jpg { display: block; }
